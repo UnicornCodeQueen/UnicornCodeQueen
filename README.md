@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @UnicornCodeQueen and you could call me a child... I'm 11 (turning 12 in a few days, github please don't terminate my account- I have a lot here-).
+- 👋 Hi, I’m @UnicornCodeQueen and you could call me a child... I'm 12 (turning 13 next year, github please don't terminate my account- I have a lot here-).
 - 👀 I’m interested in programming and the way the modern devices work and how they're made. I wanna follow something coding/programming related in the future as my career.
 - 🌱 I’m currently learning front-end and back-end development of websites.
 - 💞️ I’m looking to collaborate on ...
